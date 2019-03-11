@@ -40,6 +40,7 @@
 - https://www.w3schools.com/html/default.asp
 - https://developer.mozilla.org/fr/docs/Web/HTML
 
+# **HTML**
 ### Page type:
 
 ![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552294998-capture.png)
@@ -83,6 +84,11 @@ Indique que la cellule courante s'étend sur plusieurs lignes.
 Empêche les sauts de lignes à l'intérieur de la cellule courante.
 - L'élément ``<th>`` permet de définir des cellules d'entête. Les navigateurs visuels par exemple utilisent cette information pour mettre ces cellules en gras
 - L'élément ``<caption>`` permet de placer une légende au-dessus ou au-dessous d'un tableau 
+
+# **CSS**
+Les feuilles de style en cascade, généralement appelées CSS de l'anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML et XML. Les standards définissant CSS sont publiés par le World Wide Web Consortium (W3C).
+
+
 
 ### Best Practice
 
