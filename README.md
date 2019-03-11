@@ -36,6 +36,10 @@
 **HTML**: HyperText Markup Language (Language de balise, pour structurer la page)
 **CSS**: Cascading Style Sheets (Mise en page, visuel)
 
+### Vos meilleurs amis:
+- https://www.w3schools.com/html/default.asp
+- https://developer.mozilla.org/fr/docs/Web/HTML
+
 ## Page type:
 
 ![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552294998-capture.png)
@@ -43,8 +47,15 @@
 - **```<!DOCTYPE html>```** : type de contenu
 - **```<html>```**: va définir la racine, une seule
 - **```<head>```**: Tête du document, infos, titre du document, lien vers le CSS, metadonnées...
-- **```<inline>```**: Ne pertube pas l'élément parent, prend la largeur nécéssaire
-- **```<block>```**: Prend la largeur du conteneur
+- **```<inline>```**: Ne pertube pas l'élément parent, prend la largeur nécéssaire (ex: la balise p)
+- **```<block>```**: Prend la largeur du conteneur (ex: la balise div)
+- **```<header>```**: indique l'entête
+- **```<nav>```**: le menu de navigation
+- **```<main>```**: contenu du site
+- **```<aside>```**: complément d'information
+- **```<article>```**: Corps d'une partie d'article
+- **```<section>```**: Va être contenu dans l'article
+- **```<footer>```**: indique le pied de page du site
 
 
   
