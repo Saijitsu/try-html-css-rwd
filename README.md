@@ -31,6 +31,8 @@
 - **Shift+Alt+A** Toggle block comment
 - **Alt+Z** Toggle word wrap
 
+![alt text](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+
 ## Semaine 2: un nouveau cours pour une nouvelle vie!
 
 **HTML**: HyperText Markup Language (Language de balise, pour structurer la page)
