@@ -61,10 +61,10 @@
 # Best Practice
 
 Pensez a bien respecter la nomenclature, je vous propose celle-ci:
-HTML - ```<div class="my-string">``` [hyphens]
-CSS - ```.my-string``` [hyphens]
-Javascript - ```var myString = ''```; [camelCase]
-PHP - ```$My_String = ''```; [underscores]
+- HTML:```<div class="my-string">``` [hyphens]
+- CSS: ```.my-string``` [hyphens]
+- Javascript: ```var myString = ''```; [camelCase]
+- PHP: ```$My_String = ''```; [underscores]
 
 
   
