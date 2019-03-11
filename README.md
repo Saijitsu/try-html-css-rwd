@@ -40,11 +40,11 @@
 
 ![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552294998-capture.png)
 
-- **balise !DOCTYPE html** : type de contenu
-- **balise html**: va définir la racine, une seule
-- **balise head**: Tête du document, infos, titre du document, lien vers le CSS, metadonnées...
-- **balise inline**: Ne pertube pas l'élément parent, prend la largeur nécéssaire
-- **balise block**: Prend la largeur du conteneur
+- **```<!DOCTYPE html>```** : type de contenu
+- **```<html>```**: va définir la racine, une seule
+- **```<head>```**: Tête du document, infos, titre du document, lien vers le CSS, metadonnées...
+- **```<inline>```**: Ne pertube pas l'élément parent, prend la largeur nécéssaire
+- **```<block>```**: Prend la largeur du conteneur
 
 
   
