@@ -3,9 +3,8 @@
 ## Entrée en matière:
 **Un outil pour éditer votre contenu: Visual Studio Code**
 
-**Les astuces**
+### Basic editing: Les astuces
 
-### Basic editing
 - **Ctrl+X** Cut line (empty selection)
 - **Ctrl+C** Copy line (empty selection)
 - **Alt+ ↑ / ↓** Move line up/down
@@ -56,6 +55,16 @@
 - **```<article>```**: Corps d'une partie d'article
 - **```<section>```**: Va être contenu dans l'article
 - **```<footer>```**: indique le pied de page du site
+- **```<p>```**: pour les paragraphe (le reste étant par exemple des titres: **```<h1>```**
+- **```<a href="www.monadresse.fr>Text descriptif</a>```**: lien hypertext
+
+# Best Practice
+
+Pensez a bien respecter la nomenclature, je vous propose celle-ci:
+HTML - ```<div class="my-string">``` [hyphens]
+CSS - ```.my-string``` [hyphens]
+Javascript - ```var myString = ''```; [camelCase]
+PHP - ```$My_String = ''```; [underscores]
 
 
   
