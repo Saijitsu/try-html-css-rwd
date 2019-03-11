@@ -88,7 +88,11 @@ Empêche les sauts de lignes à l'intérieur de la cellule courante.
 # **CSS**
 Les feuilles de style en cascade, généralement appelées CSS de l'anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML et XML. Les standards définissant CSS sont publiés par le World Wide Web Consortium (W3C).
 
+### Les sélecteurs
 
+Exemple d'appel:
+
+![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552318790-capture3.png)
 
 ### Best Practice
 
