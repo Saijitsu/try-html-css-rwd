@@ -31,8 +31,6 @@
 - **Shift+Alt+A** Toggle block comment
 - **Alt+Z** Toggle word wrap
 
-![alt text](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-
 ## Semaine 2: un nouveau cours pour une nouvelle vie!
 
 **HTML**: HyperText Markup Language (Language de balise, pour structurer la page)
@@ -42,7 +40,11 @@
 
 ![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552294998-capture.png)
 
-- **<!DOCTYPE html>** : type de contenu
-- **<html>**: va définir la racine, une seule
-- **<head>**: Tête du document, infos, titre du document, lien vers le CSS, metadonnées...
+- **balise !DOCTYPE html** : type de contenu
+- **balise html**: va définir la racine, une seule
+- **balise head**: Tête du document, infos, titre du document, lien vers le CSS, metadonnées...
+- **balise inline**: Ne pertube pas l'élément parent, prend la largeur nécéssaire
+- **balise block**: Prend la largeur du conteneur
+
+
   
