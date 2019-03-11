@@ -92,8 +92,8 @@ Les feuilles de style en cascade, généralement appelées CSS de l'anglais Casc
 
 Exemple d'appel:
 
-![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552318790-capture3.png)
-
+![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552319808-capture4.png)
+![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552319947-capture5.png)
 ### Best Practice
 
 Pensez a bien respecter la nomenclature, je vous propose celle-ci:
