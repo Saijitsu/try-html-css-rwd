@@ -1,4 +1,5 @@
 # Html, Css & Responsive Web Design
+<img src="https://r.hswstatic.com/w_907/gif/tesla-cat.jpg"  width="500"/>
 
 ## Entrée en matière:
 **Un outil pour éditer votre contenu: Visual Studio Code**
@@ -39,7 +40,7 @@
 - https://www.w3schools.com/html/default.asp
 - https://developer.mozilla.org/fr/docs/Web/HTML
 
-## Page type:
+### Page type:
 
 ![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552294998-capture.png)
 
@@ -69,7 +70,7 @@
 ![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552313355-capture2.png)
 
 
-## Les tableaux
+### Les tableaux
 
 - L'élément ``<table>`` correspond au tableau lui-même
 - L'élément ``<tr>`` est utilisé pour définir chacune des lignes du tableau
@@ -83,7 +84,7 @@ Empêche les sauts de lignes à l'intérieur de la cellule courante.
 - L'élément ``<th>`` permet de définir des cellules d'entête. Les navigateurs visuels par exemple utilisent cette information pour mettre ces cellules en gras
 - L'élément ``<caption>`` permet de placer une légende au-dessus ou au-dessous d'un tableau 
 
-# Best Practice
+### Best Practice
 
 Pensez a bien respecter la nomenclature, je vous propose celle-ci:
 - HTML:```<div class="my-string">``` [hyphens]
