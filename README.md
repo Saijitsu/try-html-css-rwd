@@ -58,6 +58,20 @@
 - **```<p>```**: pour les paragraphe (le reste étant par exemple des titres: **```<h1>```**
 - **```<a href="www.monadresse.fr>Text descriptif</a>```**: lien hypertext
 
+## Les tableaux
+
+- L'élément TABLE correspond au tableau lui-même
+- L'élément TR est utilisé pour définir chacune des lignes du tableau
+- L'élément TD est utilisé pour chaque cellule
+- colspan
+Indique que la cellule courante s'étend sur plusieurs colonnes.
+- rowspan
+Indique que la cellule courante s'étend sur plusieurs lignes.
+- nowrap
+Empêche les sauts de lignes à l'intérieur de la cellule courante.
+- L'élément TH permet de définir des cellules d'entête. Les navigateurs visuels par exemple utilisent cette information pour mettre ces cellules en gras
+- L'élément CAPTION permet de placer une légende au-dessus ou au-dessous d'un tableau 
+
 # Best Practice
 
 Pensez a bien respecter la nomenclature, je vous propose celle-ci:
