@@ -179,7 +179,8 @@ Utilisez encore justify-content pour aider ces grenouilles à se rendre à leurs
 - **space-between** : Les éléments s'affichent avec un espace égal entre eux.
 - **space-around** : Les éléments s'affichent avec un espacement égal à l'entour d'eux.
 <br/>
-**2. align-items**<br/>
+
+**2. align-items** <br/>
 
 Cette propriété CSS aligne les éléments verticalement et accepte les valeurs suivantes :<br/>
 
