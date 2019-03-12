@@ -142,11 +142,19 @@ margin-left: 0;
 
 **L'essentiel et des exemples ici: https://developer.mozilla.org/fr/docs/Web/CSS/border**
 
-#### La propriété display:
+#### La propriété display
 
 **Votre cours ici: https://developer.mozilla.org/fr/docs/Web/CSS/display**
 <br/>
 La propriété display définit le type d'affichage utilisée pour le rendu d'un élément. Ce type d'affichage possède deux composantes : le type d'affichage extérieur qui définit comment la boîte participe au flux et le type d'affichage intérieur qui définit l'organisation des éléments enfants.
+
+#### La propriété position
+
+**Votre cours ici: https://developer.mozilla.org/fr/docs/Web/CSS/position**
+
+#### FLEXBOX c'est ici!
+
+**C'est ici! https://css-tricks.com/snippets/css/a-guide-to-flexbox/**
 
 ### Best Practice
 
