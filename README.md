@@ -138,6 +138,10 @@ margin-right: 5px;
 margin-bottom: 2em;
 margin-left: 0;
 
+#### Border
+
+**L'essentiel et des exemples ici: https://developer.mozilla.org/fr/docs/Web/CSS/border**
+
 ### Best Practice
 
 Pensez a bien respecter la nomenclature, je vous propose celle-ci:
