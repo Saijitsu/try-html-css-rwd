@@ -243,6 +243,12 @@ Vous pouvez utiliser align-content pour définir comment plusieurs lignes sont e
 - **space-around :** Les lignes s'affichent avec un espace égal autour d'eux.
 - **stretch :** Les lignes sont étirées pour s'adapter au conteneur.
 
+### __Grid: c'est ici!
+<br/>
+- Un tutoriel ic: https://la-cascade.io/css-grid-layout-guide-complet/ <br/>
+La propriété grid est une propriété raccourcie qui permet de définir toutes les propriétés liées aux grilles CSS, qu'elles soient explicites (grid-template-rows, grid-template-columns et grid-template-areas), implicites (grid-auto-rows, grid-auto-columns et grid-auto-flow).
+
+
 ### __Best Practice__
 
 Pensez a bien respecter la nomenclature, je vous propose celle-ci:
