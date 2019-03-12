@@ -164,5 +164,9 @@ Pensez a bien respecter la nomenclature, je vous propose celle-ci:
 - Javascript: ```var myString = ''```; [camelCase]
 - PHP: ```$My_String = ''```; [underscores]
 
+## Des chaînes à suivre pour vous auto-former:
+
+- Code et Design: https://www.youtube.com/channel/UC9zdcXq2z3GY3UVhlADNijg
+- Grafikart : https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ
 
   
