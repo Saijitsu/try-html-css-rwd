@@ -73,17 +73,17 @@
 
 ### Les tableaux
 
-- L'élément ``**<table>**`` correspond au tableau lui-même
-- L'élément ``**<tr>**`` est utilisé pour définir chacune des lignes du tableau
-- L'élément ``**<td>**`` est utilisé pour chaque cellule
+- L'élément **``<table>``** correspond au tableau lui-même
+- L'élément **``<tr>``** est utilisé pour définir chacune des lignes du tableau
+- L'élément **``<td>``** est utilisé pour chaque cellule
 - colspan
 Indique que la cellule courante s'étend sur plusieurs colonnes.
 - rowspan
 Indique que la cellule courante s'étend sur plusieurs lignes.
 - nowrap
 Empêche les sauts de lignes à l'intérieur de la cellule courante.
-- L'élément ``**<th>**`` permet de définir des cellules d'entête. Les navigateurs visuels par exemple utilisent cette information pour mettre ces cellules en gras
-- L'élément ``<caption>`` permet de placer une légende au-dessus ou au-dessous d'un tableau 
+- L'élément **``<th>``** permet de définir des cellules d'entête. Les navigateurs visuels par exemple utilisent cette information pour mettre ces cellules en gras
+- L'élément **``<caption>``** permet de placer une légende au-dessus ou au-dessous d'un tableau 
 
 # **CSS**
 
