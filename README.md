@@ -155,6 +155,7 @@ La propriété display définit le type d'affichage utilisée pour le rendu d'un
 #### FLEXBOX c'est ici!
 
 **C'est ici! https://css-tricks.com/snippets/css/a-guide-to-flexbox/**
+- Un petit tuto youtube ici (Grafikart): https://www.youtube.com/watch?v=LNqBKTeeiWo
 
 ### Best Practice
 
