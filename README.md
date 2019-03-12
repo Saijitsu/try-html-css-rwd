@@ -73,19 +73,20 @@
 
 ### Les tableaux
 
-- L'élément ``<table>`` correspond au tableau lui-même
-- L'élément ``<tr>`` est utilisé pour définir chacune des lignes du tableau
-- L'élément ``<td>`` est utilisé pour chaque cellule
+- L'élément ``**<table>**`` correspond au tableau lui-même
+- L'élément ``**<tr>**`` est utilisé pour définir chacune des lignes du tableau
+- L'élément ``**<td>**`` est utilisé pour chaque cellule
 - colspan
 Indique que la cellule courante s'étend sur plusieurs colonnes.
 - rowspan
 Indique que la cellule courante s'étend sur plusieurs lignes.
 - nowrap
 Empêche les sauts de lignes à l'intérieur de la cellule courante.
-- L'élément ``<th>`` permet de définir des cellules d'entête. Les navigateurs visuels par exemple utilisent cette information pour mettre ces cellules en gras
+- L'élément ``**<th>**`` permet de définir des cellules d'entête. Les navigateurs visuels par exemple utilisent cette information pour mettre ces cellules en gras
 - L'élément ``<caption>`` permet de placer une légende au-dessus ou au-dessous d'un tableau 
 
 # **CSS**
+
 Les feuilles de style en cascade, généralement appelées CSS de l'anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML et XML. Les standards définissant CSS sont publiés par le World Wide Web Consortium (W3C).
 
 ### Les sélecteurs
