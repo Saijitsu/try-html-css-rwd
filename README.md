@@ -156,8 +156,91 @@ La propriété display définit le type d'affichage utilisée pour le rendu d'un
 
 #### __FLEXBOX c'est ici!__
 
+Sommaire <br/>
+1. justify-content
+2. align-items
+3. flex-direction
+4. order
+5. align-self
+6. flex-wrap
+7. flex-flow
+8. align-content
+
 **C'est ici! https://css-tricks.com/snippets/css/a-guide-to-flexbox/**
 - Un petit tuto youtube ici (Grafikart): https://www.youtube.com/watch?v=LNqBKTeeiWo
+
+**1. justify-content**<br/>
+
+Utilisez encore justify-content pour aider ces grenouilles à se rendre à leurs nénuphars. Souvenez-vous que cette propriété CSS aligne les éléments horizontalement et accepte les valeurs suivantes :<br/>
+<br/>
+- **flex-start** : Les éléments s'alignent au côté gauche du conteneur.
+- **flex-end** : Les éléments s'alignent au côté droit du conteneur.
+- **center** : Les éléments s'alignent au centre du conteneur.
+- **space-between** : Les éléments s'affichent avec un espace égal entre eux.
+- **space-around** : Les éléments s'affichent avec un espacement égal à l'entour d'eux.
+<br/>
+**2. align-items**<br/>
+
+Cette propriété CSS aligne les éléments verticalement et accepte les valeurs suivantes :<br/>
+
+
+- **flex-start** : Les éléments s'alignent au haut du conteneur.
+- **flex-end** : Les éléments s'alignent au bas du conteneur.
+- **center** : Les éléments s'alignent au centre vertical du conteneur.
+- **baseline** : Les éléments s'alignent à la ligne de base du conteneur.
+- **stretch** : Les éléments sont étirés pour s'adapter au conteneur.
+
+**3. flex-direction**<br/>
+
+Cette propriété CSS définit la direction dans laquelle les éléments sont placés dans le conteneur, et accepte les valeurs suivantes :<br/>
+
+
+- **row** : Les éléments sont disposés dans la même direction que le texte.
+- **row-reverse** : Les éléments sont disposés dans la direction opposée au texte.
+- **column** : Les éléments sont disposés de haut en bas.
+- **column-reverse** : Les éléments sont disposés de bas en haut.
+
+**4. order**<br/>
+
+Dans ces cas, on peut appliquer la propriété order à des éléments individuels. Par défaut, les éléments ont une valeur de 0, mais on peut utiliser cette propriété pour changer la valeur à un entier positif ou négatif.<br/>
+
+
+**5. align-self**<br/>
+
+Une autre propriété que vous pouvez appliquer sur des éléments individuels est align-self. Cette propriété accepte les mêmes valeurs que align-items, mais s'applique seulement à l'élément ciblé.<br/>
+
+- **flex-start**
+- **flex-end**
+- **center**
+- **baseline**
+- **stretch**
+
+**6. flex-wrap**<br/>
+
+La propriété flex-wrap, qui accepte les valeurs suivantes :<br/>
+
+
+- **nowrap :** Tous les éléments sont tenus sur une seule ligne.
+- **wrap :** Les éléments s'enveloppent sur plusieurs lignes au besoin.
+- **wrap-reverse :** Les éléments s'enveloppent sur plusieurs lignes dans l'ordre inversé.
+
+**7. flex-flow**<br/>
+
+Les deux propriétés flex-direction et flex-wrap sont utilisées tellement souvent ensembles que le raccourci flex-flow a été créé pour les combiner. Ce raccourci accepte les valeurs des deux propriétés séparées par un espace.
+Par exemple, vous pouvez utiliser flex-flow: row wrap pour configurer les colonnes et les faire s'envelopper.<br/>
+
+
+**8. align-content**<br/>
+
+Vous pouvez utiliser align-content pour définir comment plusieurs lignes sont espacées de l'une à l'autre. Cette propriété prend les valeurs suivantes :<br/>
+
+
+- **flex-start :** Les lignes sont amassées dans le haut du conteneur.
+- **flex-end:** Les lignes sont amassées dans le bas du conteneur.
+- **center :** Les lignes sont amassées dans le centre vertical du conteneur.
+- **space-between :** Les lignes s'affichent avec un espace égal entre eux.
+- **space-around :** Les lignes s'affichent avec un espace égal autour d'eux.
+- **stretch :** Les lignes sont étirées pour s'adapter au conteneur.
 
 ### __Best Practice__
 
