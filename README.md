@@ -71,7 +71,7 @@
 ![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552313355-capture2.png)
 
 
-### Les tableaux
+### __Les tableaux__
 
 - L'élément **``<table>``** correspond au tableau lui-même
 - L'élément **``<tr>``** est utilisé pour définir chacune des lignes du tableau
@@ -89,21 +89,23 @@ Empêche les sauts de lignes à l'intérieur de la cellule courante.
 
 Les feuilles de style en cascade, généralement appelées CSS de l'anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML et XML. Les standards définissant CSS sont publiés par le World Wide Web Consortium (W3C).
 
-### Les sélecteurs
+### __Les sélecteurs__
 
 Exemple d'appel:
 
 ![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552319808-capture4.png)
 ![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552319947-capture5.png)
 
-### Les unités de mesure
+### __Les unités de mesure__
+
 - **des indications ici: https://www.w3.org/Style/Examples/007/units.fr.html**
+
 ##### Les tailles recommandées: px, em, %:
 - **L'unité em**: se rapporte à la taille de la police. Avec elle on peut affecter une mesure relative à la taille de police de l'élément parent. Elle permet d'avoir des feuilles de style plus facilement adaptables d'un média à un autre. Les nombres décimaux sont autorisés, mais il faut tout simplement remplacer la virgule par un point. Cette valeur em est utilisable pour d'autres propriétés acceptant la mention de longueur.
 - **L'unité px**: l'écran d'un ordinateur ou moniteur est formé par plusieurs petits "carrés". Ces carrés définissent la résolution ou densité de l'écran en pixels d'affichage selon l'unité de sortie, c'est-à-dire l'écran de l'ordinateur. L'unité px qui veut dire pixel correspond à un de ces petits carrés.
 - **L'unité de %**: s'exprime en %...
 
-### Les pseudo-classes
+### __Les pseudo-classes__
 Une pseudo-classe est un mot-clé qui peut être ajouté à un sélecteur afin d'indiquer l'état spécifique dans lequel l'élément doit être pour être ciblé par la déclaration. La pseudo-classe :hover est un bon exem
 - **c'est ici: https://developer.mozilla.org/fr/docs/Web/CSS/Pseudo-classes** <br/>
 ``sélecteur:pseudo-classe {`` <br/>
@@ -118,12 +120,12 @@ Une pseudo-classe est un mot-clé qui peut être ajouté à un sélecteur afin d
 
 - **Pour essayer: https://www.w3schools.com/css/css_link.asp**
 
-### Propriétés des boites:
+### __Propriétés des boites:__
 
 ![alt text](https://mdn.mozillademos.org/files/16052/image_1.png) <br/>
 **Le cours parfait ici:** https://developer.mozilla.org/fr/docs/Apprendre/CSS/Introduction_%C3%A0_CSS/Le_mod%C3%A8le_de_bo%C3%AEte
 
-#### La propriété margin
+#### __La propriété margin__
 
 On peut détailler les tailles des marges à l'aide des suffixes: <br/>
 **top (haut)**,<br/>
@@ -138,26 +140,26 @@ margin-right: 5px;
 margin-bottom: 2em;
 margin-left: 0;
 
-#### La propriété border
+#### __La propriété border__
 
 **L'essentiel et des exemples ici: https://developer.mozilla.org/fr/docs/Web/CSS/border**
 
-#### La propriété display
+#### __La propriété display__
 
 **Votre cours ici: https://developer.mozilla.org/fr/docs/Web/CSS/display**
 <br/>
 La propriété display définit le type d'affichage utilisée pour le rendu d'un élément. Ce type d'affichage possède deux composantes : le type d'affichage extérieur qui définit comment la boîte participe au flux et le type d'affichage intérieur qui définit l'organisation des éléments enfants.
 
-#### La propriété position
+#### __La propriété position__
 
 **Votre cours ici: https://developer.mozilla.org/fr/docs/Web/CSS/position**
 
-#### FLEXBOX c'est ici!
+#### __FLEXBOX c'est ici!__
 
 **C'est ici! https://css-tricks.com/snippets/css/a-guide-to-flexbox/**
 - Un petit tuto youtube ici (Grafikart): https://www.youtube.com/watch?v=LNqBKTeeiWo
 
-### Best Practice
+### __Best Practice__
 
 Pensez a bien respecter la nomenclature, je vous propose celle-ci:
 - HTML:```<div class="my-string">``` [hyphens]
