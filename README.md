@@ -123,7 +123,7 @@ Une pseudo-classe est un mot-clé qui peut être ajouté à un sélecteur afin d
 ![alt text](https://mdn.mozillademos.org/files/16052/image_1.png) <br/>
 **Le cours parfait ici:** https://developer.mozilla.org/fr/docs/Apprendre/CSS/Introduction_%C3%A0_CSS/Le_mod%C3%A8le_de_bo%C3%AEte
 
-#### Margin
+#### La propriété margin
 
 On peut détailler les tailles des marges à l'aide des suffixes: <br/>
 **top (haut)**,<br/>
@@ -138,9 +138,15 @@ margin-right: 5px;
 margin-bottom: 2em;
 margin-left: 0;
 
-#### Border
+#### La propriété border
 
 **L'essentiel et des exemples ici: https://developer.mozilla.org/fr/docs/Web/CSS/border**
+
+#### La propriété display:
+
+**Votre cours ici: https://developer.mozilla.org/fr/docs/Web/CSS/display**
+<br/>
+La propriété display définit le type d'affichage utilisée pour le rendu d'un élément. Ce type d'affichage possède deux composantes : le type d'affichage extérieur qui définit comment la boîte participe au flux et le type d'affichage intérieur qui définit l'organisation des éléments enfants.
 
 ### Best Practice
 
