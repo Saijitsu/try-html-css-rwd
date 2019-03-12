@@ -125,10 +125,14 @@ Une pseudo-classe est un mot-clé qui peut être ajouté à un sélecteur afin d
 
 #### Margin
 
-On peut détailler les tailles des marges à l'aide des suffixes -top (haut), -right (droite), -bottom (bas), -left (gauche), ou synthétiser les quatre d'un seul coup (la première valeur étant celle du haut, puis on tourne dans le sens des aiguilles d'une montre).
+On peut détailler les tailles des marges à l'aide des suffixes: <br/>
+- **top (haut)**,
+- **right (droite)**,
+- **bottom (bas)**,
+- **left (gauche)**, <br/> ou synthétiser les quatre d'un seul coup (la première valeur étant celle du haut, puis on tourne dans le sens des aiguilles d'une montre).
 
  - margin: 2px 5px 2em 0; <br/>
-revient à : <br/>
+**revient à :** <br/>
 - margin-top: 2px;
 - margin-right: 5px;
 - margin-bottom: 2em;
