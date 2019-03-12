@@ -96,16 +96,19 @@ Exemple d'appel:
 ![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552319808-capture4.png)
 ![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552319947-capture5.png)
 
-### Les pseudo-classes
-Une pseudo-classe est un mot-clé qui peut être ajouté à un sélecteur afin d'indiquer l'état spécifique dans lequel l'élément doit être pour être ciblé par la déclaration. La pseudo-classe :hover est un bon exem
-- **c'est ici: https://developer.mozilla.org/fr/docs/Web/CSS/Pseudo-classes**
-
 ### Les unités de mesure
 - **des indications ici: https://www.w3.org/Style/Examples/007/units.fr.html**
 ##### Les tailles recommandées: px, em, %:
 - **L'unité em**: se rapporte à la taille de la police. Avec elle on peut affecter une mesure relative à la taille de police de l'élément parent. Elle permet d'avoir des feuilles de style plus facilement adaptables d'un média à un autre. Les nombres décimaux sont autorisés, mais il faut tout simplement remplacer la virgule par un point. Cette valeur em est utilisable pour d'autres propriétés acceptant la mention de longueur.
 - **L'unité px**: l'écran d'un ordinateur ou moniteur est formé par plusieurs petits "carrés". Ces carrés définissent la résolution ou densité de l'écran en pixels d'affichage selon l'unité de sortie, c'est-à-dire l'écran de l'ordinateur. L'unité px qui veut dire pixel correspond à un de ces petits carrés.
 - **L'unité de %**: s'exprime en %...
+
+### Les pseudo-classes
+Une pseudo-classe est un mot-clé qui peut être ajouté à un sélecteur afin d'indiquer l'état spécifique dans lequel l'élément doit être pour être ciblé par la déclaration. La pseudo-classe :hover est un bon exem
+- **c'est ici: https://developer.mozilla.org/fr/docs/Web/CSS/Pseudo-classes** <br/>
+``sélecteur:pseudo-classe {`` <br/>
+ ``propriété: valeur;``<br/>
+``}``
 
 #### Exemple d'intervention: sur les liens:
 - a:link - a normal, unvisited link (de base: avec a { })
