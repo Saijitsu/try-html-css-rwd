@@ -113,25 +113,7 @@ Une pseudo-classe est un mot-clé qui peut être ajouté à un sélecteur afin d
 - a:hover - a link when the user mouses over it
 - a:active - a link the moment it is clicked
 
-``/* unvisited link */
-a:link {
-  color: red;
-}
-
-/* visited link */
-a:visited {
-  color: green;
-}
-
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
-
-/* selected link */
-a:active {
-  color: blue;
-}``
+- **Pour essayer: https://www.w3schools.com/css/css_link.asp**
 
 ### Best Practice
 
