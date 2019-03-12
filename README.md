@@ -107,6 +107,31 @@ Une pseudo-classe est un mot-clé qui peut être ajouté à un sélecteur afin d
 - **L'unité px**: l'écran d'un ordinateur ou moniteur est formé par plusieurs petits "carrés". Ces carrés définissent la résolution ou densité de l'écran en pixels d'affichage selon l'unité de sortie, c'est-à-dire l'écran de l'ordinateur. L'unité px qui veut dire pixel correspond à un de ces petits carrés.
 - **L'unité de %**: s'exprime en %...
 
+#### Exemple d'intervention: sur les liens:
+- a:link - a normal, unvisited link (de base: avec a { })
+- a:visited - a link the user has visited
+- a:hover - a link when the user mouses over it
+- a:active - a link the moment it is clicked
+
+``/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}``
 
 ### Best Practice
 
