@@ -118,10 +118,21 @@ Une pseudo-classe est un mot-clé qui peut être ajouté à un sélecteur afin d
 
 - **Pour essayer: https://www.w3schools.com/css/css_link.asp**
 
-### Propriété des boites:
+### Propriétés des boites:
 
 ![alt text](https://mdn.mozillademos.org/files/16052/image_1.png) <br/>
 **Le cours parfait ici:** https://developer.mozilla.org/fr/docs/Apprendre/CSS/Introduction_%C3%A0_CSS/Le_mod%C3%A8le_de_bo%C3%AEte
+
+#### Margin
+
+On peut détailler les tailles des marges à l'aide des suffixes -top (haut), -right (droite), -bottom (bas), -left (gauche), ou synthétiser les quatre d'un seul coup (la première valeur étant celle du haut, puis on tourne dans le sens des aiguilles d'une montre).
+
+ - margin: 2px 5px 2em 0; <br/>
+revient à : <br/>
+- margin-top: 2px;
+- margin-right: 5px;
+- margin-bottom: 2em;
+- margin-left: 0;
 
 ### Best Practice
 
