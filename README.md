@@ -254,6 +254,9 @@ La propriété grid est une propriété raccourcie qui permet de définir toutes
 - le visuel: <br/>
 ![alt text](https://image.noelshack.com/fichiers/2019/11/2/1552406524-capture7.png)<br/>
 
+- **Exemple avec des class et id pour vous aider:** <br/>
+![alt text](https://image.noelshack.com/fichiers/2019/11/3/1552465460-capture8.png)<br/>
+![alt text](https://image.noelshack.com/fichiers/2019/11/3/1552465466-capture9.png)
 
 ### __Best Practice__
 
