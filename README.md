@@ -47,6 +47,7 @@
 
 #### Rappel de l'architecture de base:
 
+![alt text](https://user.oc-static.com/files/343001_344000/343677.png) <br/>
 ![alt text](https://image.noelshack.com/fichiers/2019/11/3/1552476972-capture10.png)<br/>
 
 - **```<!DOCTYPE html>```** : type de contenu
