@@ -268,7 +268,7 @@ Pensez a bien respecter la nomenclature, je vous propose celle-ci:
 - **Code et Design:** https://www.youtube.com/channel/UC9zdcXq2z3GY3UVhlADNijg
 - **Grafikart:** https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ
 
-## Un site avec des tuto de qualité dans la langue de Molière:
+## Un site avec des tutoriels de qualité dans la langue de Molière:
 
 - **Grafikart again! c'est ici: https://www.grafikart.fr**
   
