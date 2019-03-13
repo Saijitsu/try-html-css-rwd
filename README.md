@@ -43,7 +43,11 @@
 # **HTML**
 ### Page type:
 
-![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552294998-capture.png)
+![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552294998-capture.png) <br/>
+
+#### Rappel de l'architecture de base:
+
+![alt text](https://image.noelshack.com/fichiers/2019/11/3/1552476972-capture10.png)<br/>
 
 - **```<!DOCTYPE html>```** : type de contenu
 - **```<html>```**: va définir la racine, une seule
