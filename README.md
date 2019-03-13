@@ -65,7 +65,9 @@
 - **exemple**:  ```<video width="320" height="240" controls> <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4"> <source src="movie.ogg" type="video/ogg"></video>```
 - **``<iframe>``**: ```<iframe width="560" height="315" src="https://www.youtube.com/embed/nIshgLfQWec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>```
 - **``<form>``**: ```<form action="" method=""></form>```: deux méthodes 1/ GET et 2/ URL
-- **la balise ```<form>```**: la balise formulaire
+- **la balise ```<form>```**: la balise formulaire:
+1. **L'attribut action définit l'emplacement (une URL) où doivent être envoyées les données collectées par le formulaire.**
+2. **L'attribut method définit la méthode HTTP utilisée pour envoyer les données (cela peut être « get » ou « post »).**
  - **Exemple**: 
  
 ![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552313355-capture2.png)
