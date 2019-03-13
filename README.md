@@ -36,12 +36,11 @@
 **HTML**: HyperText Markup Language (Language de balise, pour structurer la page)
 **CSS**: Cascading Style Sheets (Mise en page, visuel)
 
-### Vos meilleurs amis:
-- https://www.w3schools.com/html/default.asp
-- https://developer.mozilla.org/fr/docs/Web/HTML
-
 # **HTML**
 ### Page type:
+#### Vos meilleurs amis:
+- https://www.w3schools.com/html/default.asp
+- https://developer.mozilla.org/fr/docs/Web/HTML
 
 ![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552294998-capture.png) <br/>
 
