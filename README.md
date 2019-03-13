@@ -45,7 +45,8 @@
 
 ![alt text](https://image.noelshack.com/fichiers/2019/11/1/1552294998-capture.png) <br/>
 
-#### Rappel de l'architecture de base:
+#### Rappel de l'architecture de base du contenu de votre body:<br/>
+**La balise ``<main>`` peut ici servir pour encapsuler vos ``<section>``**
 
 ![alt text](https://user.oc-static.com/files/343001_344000/343677.png) <br/>
 ![alt text](https://image.noelshack.com/fichiers/2019/11/3/1552476972-capture10.png)<br/>
