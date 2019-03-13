@@ -173,7 +173,7 @@ Sommaire <br/>
 
 **1. justify-content**<br/>
 
-Utilisez encore justify-content pour aider ces grenouilles à se rendre à leurs nénuphars. Souvenez-vous que cette propriété CSS aligne les éléments horizontalement et accepte les valeurs suivantes :<br/>
+Souvenez-vous que cette propriété CSS aligne les éléments horizontalement et accepte les valeurs suivantes :<br/>
 <br/>
 - **flex-start** : Les éléments s'alignent au côté gauche du conteneur.
 - **flex-end** : Les éléments s'alignent au côté droit du conteneur.
