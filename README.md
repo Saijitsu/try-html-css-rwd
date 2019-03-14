@@ -301,7 +301,7 @@ Le Responsive Web Design a bénéficié de l’arrivée des Media Queries de CSS
 - Un système de grilles fluides où se placent les contenus de la page.
 - L’utilisation des CSS3 Media Queries pour appliquer la feuille de style adéquate.
 - Des images flexibles/adaptatives dont la taille/résolution s’ajuste automatiquement.
-- Lorsque l’objectif est atteint, l’interface du site web est lisible et utilisable sur tous les appareils. Le contenu se rétrécit et --- s’agrandit à volonté sans changer. Néanmoins, il est possible de cacher un contenu. Par exemple, une image ou un texte peuvent n’être visible que sur le site web en mode ordinateur (desktop) et tablette, et absents pour un affichage sur mobile.
+- Lorsque l’objectif est atteint, l’interface du site web est lisible et utilisable sur tous les appareils. Le contenu se rétrécit et s’agrandit à volonté sans changer. Néanmoins, il est possible de cacher un contenu. Par exemple, une image ou un texte peuvent n’être visible que sur le site web en mode ordinateur (desktop) et tablette, et absents pour un affichage sur mobile.
 
 <img title="Responsive Webdesign templates" src="https://www.usabilis.com/wp/wp-content/uploads/2018/05/06-Responsive-Webdesign-templates.jpg" alt="Responsive Webdesign templates" width="600" height="244">
 
