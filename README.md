@@ -287,6 +287,15 @@ La propriété grid est une propriété raccourcie qui permet de définir toutes
 - **Exemple de choses faisables: https://codepen.io/SoyEva/pen/LRjWzZ**<br/>
 ![alt animationcat](https://image.noelshack.com/fichiers/2019/11/4/1552555651-capture11.png)
 
+# **RWD: Responsive Web Design** <br/>
+
+Le Responsive Web Design (RWD) ajuste automatiquement l’affichage d’une page web à la taille d’écran du terminal utilisé. Cette technique de conception de site web, ou d’interface digitale, répond à un besoin des utilisateurs, toujours plus nombreux à se connecter sur le web depuis un appareil mobile.<br/>
+
+Le Responsive Design permet de faciliter la navigation et d’améliorer l’expérience utilisateur lorsqu’il s’agit de consulter le site sur un appareil mobile. Le Responsive Web Design est souvent confondu avec un concept plus large, l’Adaptive Design. Design responsive ou Design adaptatif, les deux méthodes de conception visent à améliorer l’ergonomie mobile du site web. C’est un enjeu majeur pour les entreprises, tant en termes de référencement que pour s’adapter aux nouveaux usages.<br/>
+
+<img title="Principe Responsive WebDesign" src="https://www.usabilis.com/wp/wp-content/uploads/2018/05/01-principe-Responsive-webDesign.jpg" alt="Principe Responsive WebDesign" width="600" height="400">
+
+
 ### __Best Practice__
 
 Pensez a bien respecter la nomenclature, je vous propose celle-ci:
