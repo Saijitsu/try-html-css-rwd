@@ -293,7 +293,17 @@ Le Responsive Web Design (RWD) ajuste automatiquement l’affichage d’une page
 
 Le Responsive Design permet de faciliter la navigation et d’améliorer l’expérience utilisateur lorsqu’il s’agit de consulter le site sur un appareil mobile. Le Responsive Web Design est souvent confondu avec un concept plus large, l’Adaptive Design. Design responsive ou Design adaptatif, les deux méthodes de conception visent à améliorer l’ergonomie mobile du site web. C’est un enjeu majeur pour les entreprises, tant en termes de référencement que pour s’adapter aux nouveaux usages.<br/>
 
-<img title="Principe Responsive WebDesign" src="https://www.usabilis.com/wp/wp-content/uploads/2018/05/01-principe-Responsive-webDesign.jpg" alt="Principe Responsive WebDesign" width="600" height="400">
+<img title="Principe Responsive WebDesign" src="https://www.usabilis.com/wp/wp-content/uploads/2018/05/01-principe-Responsive-webDesign.jpg" alt="Principe Responsive WebDesign" width="600" height="400"> <br/>
+
+Le Responsive Web Design a bénéficié de l’arrivée des Media Queries de CSS3 (gestion dynamique des feuilles de style). Un site pensé en Responsive Web Design est conçu ainsi :<br/>
+
+- Une seule base de code HTML identique pour tous les terminaux.
+- Un système de grilles fluides où se placent les contenus de la page.
+- L’utilisation des CSS3 Media Queries pour appliquer la feuille de style adéquate.
+- Des images flexibles/adaptatives dont la taille/résolution s’ajuste automatiquement.
+- Lorsque l’objectif est atteint, l’interface du site web est lisible et utilisable sur tous les appareils. Le contenu se rétrécit et --- s’agrandit à volonté sans changer. Néanmoins, il est possible de cacher un contenu. Par exemple, une image ou un texte peuvent n’être visible que sur le site web en mode ordinateur (desktop) et tablette, et absents pour un affichage sur mobile.
+
+<img title="Responsive Webdesign templates" src="https://www.usabilis.com/wp/wp-content/uploads/2018/05/06-Responsive-Webdesign-templates.jpg" alt="Responsive Webdesign templates" width="600" height="244">
 
 
 ### __Best Practice__
