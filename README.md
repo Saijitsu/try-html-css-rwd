@@ -265,6 +265,23 @@ La propriété grid est une propriété raccourcie qui permet de définir toutes
 ![alt text](https://image.noelshack.com/fichiers/2019/11/3/1552465460-capture8.png)<br/>
 ![alt text](https://image.noelshack.com/fichiers/2019/11/3/1552465466-capture9.png)
 
+### __Animation__
+
+#### La propriété transition: <br/>
+
+- **L'essentiel est ici: https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Transitions/Utiliser_transitions_CSS**
+- Exemple: <br/>
+**Les transitions CSS vous permettent de choisir :** <br/>
+
+- les propriétés à animer en les listant explicitement
+- le début de l'animation
+- la durée de l'animation
+- la façon dont la transition s'exécutera <br/>
+
+``div {
+  transition: <property> <duration> <timing-function> <delay>;
+}``
+
 ### __Best Practice__
 
 Pensez a bien respecter la nomenclature, je vous propose celle-ci:
