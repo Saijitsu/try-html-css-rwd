@@ -265,7 +265,7 @@ La propriété grid est une propriété raccourcie qui permet de définir toutes
 ![alt text](https://image.noelshack.com/fichiers/2019/11/3/1552465460-capture8.png)<br/>
 ![alt text](https://image.noelshack.com/fichiers/2019/11/3/1552465466-capture9.png)
 
-### __Animation__
+### __Transition & Animation__
 
 #### La propriété transition: <br/>
 
@@ -281,6 +281,11 @@ La propriété grid est une propriété raccourcie qui permet de définir toutes
 ``div {
   transition: <property> <duration> <timing-function> <delay>;
 }``
+
+#### La propriété Animation: <br/>
+
+- **Exemple de choses faisables: https://codepen.io/SoyEva/pen/LRjWzZ**<br/>
+![alt animationcat](https://image.noelshack.com/fichiers/2019/11/4/1552555651-capture11.png)
 
 ### __Best Practice__
 
