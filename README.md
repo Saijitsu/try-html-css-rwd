@@ -127,6 +127,10 @@ Une pseudo-classe est un mot-clé qui peut être ajouté à un sélecteur afin d
 
 - **Pour essayer: https://www.w3schools.com/css/css_link.asp**
 
+#### Un lien contenu dans une image (ex: un logo avec ouverture d'une page au clic):
+<br/>
+**C'est ici: https://codepen.io/saijitsu/pen/KEoqyR***
+
 ### __Propriétés des boites:__
 
 ![alt text](https://mdn.mozillademos.org/files/16052/image_1.png) <br/>
