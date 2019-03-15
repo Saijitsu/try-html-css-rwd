@@ -59,8 +59,8 @@
 - **```<nav>```**: le menu de navigation
 - **```<main>```**: contenu du site
 - **```<aside>```**: complément d'information
-- **```<article>```**: Corps d'une partie d'article
-- **```<section>```**: Va être contenu dans l'article
+- **```<section>```**: Corps de la section
+- **```<article>```**: Corps d'une partie d'article (contenu dans la section)
 - **```<footer>```**: indique le pied de page du site
 - **```<p>```**: pour les paragraphe (le reste étant par exemple des titres: **```<h1>```**
 - **```<a href="www.monadresse.fr>Text descriptif</a>```**: lien hypertext
