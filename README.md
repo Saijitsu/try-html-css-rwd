@@ -128,8 +128,9 @@ Une pseudo-classe est un mot-clé qui peut être ajouté à un sélecteur afin d
 - **Pour essayer: https://www.w3schools.com/css/css_link.asp**
 
 #### Un lien contenu dans une image (ex: un logo avec ouverture d'une page au clic):
-<br/>
+
 **C'est ici: https://codepen.io/saijitsu/pen/KEoqyR***
+<img src="https://cdn.emojidex.com/emoji/px128/T-Rex.png?1481997106" alt="my nice dinosaur" width="50" height="50" title="A T-Rex on display on wikipedia">
 
 ### __Propriétés des boites:__
 
